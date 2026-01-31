@@ -13,7 +13,7 @@ I'm **Md. Himel Ali**, a **Senior Backend & DevOps Engineer** with **10+ years o
 
 I specialize in:
 
-✅ Laravel Backend Engineering  
+✅ Laravel and NodeJS Backend Engineering  
 ✅ Microservices Architecture  
 ✅ Cloud Infrastructure & DevOps (AWS)  
 ✅ Database Optimization  
@@ -26,7 +26,8 @@ I enjoy helping businesses grow by delivering clean architecture, reliable syste
 
 ## 🔥 Core Expertise  
 
-- **Laravel Development & API Engineering**
+- **Laravel, NodeJS Development & API Engineering**
+- **Vue & React based Development**
 - **Microservices & Distributed Systems**
 - **AWS Cloud & DevOps Automation**
 - **Test Driven Development (TDD)**
@@ -41,7 +42,7 @@ I enjoy helping businesses grow by delivering clean architecture, reliable syste
 ## 🛠️ Technical Skills  
 
 ### Backend  
-- Laravel, PHP  
+- Laravel, PHP, NodeJS, Python, Java  
 - RESTful APIs  
 - Microservices Architecture  
 
@@ -51,7 +52,8 @@ I enjoy helping businesses grow by delivering clean architecture, reliable syste
 - Linux Server Administration  
 
 ### Database  
-- MySQL  
+- MySQL
+- Redis
 - PostgreSQL  
 - Query Optimization  
 
