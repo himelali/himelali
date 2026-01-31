@@ -1,74 +1,92 @@
 # 👋 Hi, I'm Md. Himel Ali  
-### 🚀 Full Stack Developer | Software Engineer | 10+ Years of Experience  
+### 🚀 Senior Backend & DevOps Engineer | Laravel & Cloud Expert  
 
-🌍 Portfolio: [himelali.com](https://himelali.com)  
-💼 Passionate about building scalable web applications, modern SaaS platforms, and AI-powered solutions.  
-🔥 10+ years of expertise in full-stack development, cloud infrastructure, and product engineering.  
+🌍 Website: [https://himelali.com](https://himelali.com)  
+📍 Location: Dhaka, Bangladesh (GMT+6)  
+📧 Email: himelali@gmail.com  
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- ✅ 10+ years experience in Software Development  
-- 🌐 Specialized in **Full Stack Web Applications**  
-- ⚡ Strong background in **React, Node.js, Laravel, PHP, AWS**  
-- 💡 Interested in **AI, SaaS Products, and Modern Cloud Solutions**  
-- 🎯 Focused on performance, clean architecture, and scalable systems  
+I'm **Md. Himel Ali**, a **Senior Backend & DevOps Engineer** with **10+ years of experience** in building scalable, secure, and high-performance web applications.
+
+I specialize in:
+
+✅ Laravel Backend Engineering  
+✅ Microservices Architecture  
+✅ Cloud Infrastructure & DevOps (AWS)  
+✅ Database Optimization  
+✅ Agile Development Practices  
+
+I enjoy helping businesses grow by delivering clean architecture, reliable systems, and long-term maintainable solutions.  
+(Portfolio reference: :contentReference[oaicite:1]{index=1})
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🔥 Core Expertise  
 
-### Frontend  
-- React.js, Next.js  
-- Vue.js  
-- Tailwind CSS, Bootstrap  
-- HTML5, CSS3, JavaScript (ES6+)  
+- **Laravel Development & API Engineering**
+- **Microservices & Distributed Systems**
+- **AWS Cloud & DevOps Automation**
+- **Test Driven Development (TDD)**
+- **SOLID Principles & Clean Code**
+- **Agile Methodologies (Scrum, Kanban)**
+- Tools: Jira, ClickUp  
+
+(Highlighted in portfolio: :contentReference[oaicite:2]{index=2})
+
+---
+
+## 🛠️ Technical Skills  
 
 ### Backend  
-- Node.js, Express.js  
-- PHP, Laravel  
-- REST APIs, GraphQL  
-
-### Database  
-- MySQL, PostgreSQL  
-- MongoDB  
-- Firebase  
+- Laravel, PHP  
+- RESTful APIs  
+- Microservices Architecture  
 
 ### DevOps & Cloud  
 - AWS (EC2, S3, Lambda)  
-- Docker, CI/CD Pipelines  
-- Linux Server Management  
+- Docker & CI/CD Pipelines  
+- Linux Server Administration  
 
-### Tools  
-- Git & GitHub  
-- Postman, Swagger  
-- Jira, Trello  
+### Database  
+- MySQL  
+- PostgreSQL  
+- Query Optimization  
+
+### Methodologies  
+- TDD & SOLID Design  
+- Scrum / Agile Workflows  
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🚀 SaaS & Web Platforms  
-🔹 Developed scalable SaaS applications with multi-tenant architecture  
-🔹 Subscription billing, dashboards, admin panels  
+Here are some areas I actively deliver solutions in:
 
-### 🤖 AI & Automation Tools  
-🔹 Integrated AI APIs for productivity solutions  
-🔹 Workflow automation & smart analytics  
+### 🚀 Enterprise Backend Systems  
+- High-performance Laravel applications  
+- Secure authentication & API gateways  
 
-### 🛒 E-Commerce Systems  
-🔹 Complete e-commerce solutions with payment gateway integration  
-🔹 Optimized checkout, inventory, and performance  
+### ☁️ Cloud Infrastructure & DevOps  
+- AWS deployments and automation  
+- Scalable cloud-native environments  
+
+### 🧩 Microservices Solutions  
+- Service-to-service architecture  
+- Clean modular backend design  
 
 ---
 
-## 🌟 Professional Highlights  
+## 💼 Work Opportunities  
 
-✅ Delivered **50+ successful projects** worldwide  
-✅ Worked with startups, agencies, and enterprise teams  
-✅ Strong communication & leadership experience  
-✅ Expert in building products from idea → launch  
+I’m available for:
+
+✅ Full-time backend engineering roles  
+✅ Consulting projects  
+✅ Technical leadership in growing companies  
+(Availability noted in portfolio: :contentReference[oaicite:3]{index=3})
 
 ---
 
@@ -80,12 +98,12 @@
 
 ---
 
-## 📫 Connect With Me  
+## 🌐 Connect With Me  
 
-🌍 Website: [https://himelali.com](https://himelali.com)  
-💼 LinkedIn: *(Add your LinkedIn here)*  
+🌍 Portfolio: [himelali.com](https://himelali.com)  
 📧 Email: himelali@gmail.com  
+📱 WhatsApp: +880 1710 437834  
 
 ---
 
-⭐️ From [Md. Himel Ali](https://github.com/himelali)
+⭐️ Built with passion by **Md. Himel Ali**
