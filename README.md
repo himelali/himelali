@@ -99,7 +99,7 @@ I’m available for:
 📱 WhatsApp: +880 1710 437834
 
 [![Website](https://img.shields.io/badge/Portfolio-himelali.com-green?style=for-the-badge)](https://himelali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](himelali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himelali/)
 [![Email](https://img.shields.io/badge/Email-himelali@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:himelali@gmail.com)
 
 ---
