@@ -92,19 +92,15 @@ I’m available for:
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himelali&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himelali&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect With Me  
 
 🌍 Portfolio: [himelali.com](https://himelali.com)  
 📧 Email: himelali@gmail.com  
-📱 WhatsApp: +880 1710 437834  
+📱 WhatsApp: +880 1710 437834
+
+[![Website](https://img.shields.io/badge/Portfolio-himelali.com-green?style=for-the-badge)](https://himelali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](himelali)
+[![Email](https://img.shields.io/badge/Email-himelali@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:himelali@gmail.com)
 
 ---
 
