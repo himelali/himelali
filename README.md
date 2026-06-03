@@ -129,9 +129,18 @@ I have led engineering teams, reviewed architecture, mentored developers, planne
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himelali&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelali&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/himelali?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-0E7A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
+  <a href="https://github.com/himelali?tab=packages">
+    <img src="https://img.shields.io/badge/Packages-Composer%20%26%20Tools-1F6FEB?style=for-the-badge&logo=packagist&logoColor=white" alt="GitHub packages" />
+  </a>
+  <a href="https://github.com/himelali?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Open%20Source%20Interests-F7B731?style=for-the-badge&logo=github&logoColor=black" alt="GitHub stars" />
+  </a>
 </p>
+
+I use GitHub to publish reusable tools, Laravel/PHP packages, Docker workflows, backend utilities, and experiments around scalable system design.
 
 ## 🤝 Connect
 
